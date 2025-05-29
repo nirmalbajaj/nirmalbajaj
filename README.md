@@ -35,10 +35,10 @@ Established a solid foundation in software development and programming.
 # Skills 🛠️
 ### Technical Skills
 
-* Front-End: HTML5, CSS3, JavaScript, React.js, TailwindCSS, Bootsrap 🌟  
-* Back-End: Node.js, Express.js, FASTAPI ⚙️  
-* Databases: MySQL, MongoDB 🗄️  
-* Other: jQuery, Python, Java 🐍
+* Programming Languages: HTML, CSS, C, C++, Java, Python, Javascript 🌟  
+* Frameworks & Libraries: Node.js, Express.js, FASTAPI, React, Bootstrap, TailwindCSS, jQuery ⚙️  
+* Databases: MySQL, MongoDB, PostgreSQL 🗄️  
+* Devops: Docker 🐍
 
 ### Domain Skills
 
