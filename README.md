@@ -77,7 +77,7 @@ Gained hands-on experience with Arduino, emulators, and 8086 processors. 💻
 Email: nirmalbajaj99@gmail.com 📧  
 LinkedIn: https://www.linkedin.com/in/nirmal-bajaj/ 🔗  
 GitHub: https://github.com/nirmalbajaj 🌐  
-Postfolio: https://nirmalwebsite.netlify.app 💻 
+Portfolio: https://nirmalwebsite.netlify.app 💻 
 
 Location: Vadodara, India 📍
 
